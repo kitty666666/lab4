@@ -2,6 +2,7 @@
 Это моя лабораторная работа))
 Вставка из New
 Здесь я напишу новые слова
-Hello world! 
+Hello world!
+Bye world!
 This is my laboratornaya))
 89125486345
