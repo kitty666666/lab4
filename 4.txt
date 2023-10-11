@@ -1,6 +1,9 @@
 Привет мир! 
 Это моя лабораторная работа))
+Вставка из New
+Вставка из main
 Здесь я напишу новые слова
-Hello world! 
+Hello world!
+Bye world!
 This is my laboratornaya))
 89125486345
